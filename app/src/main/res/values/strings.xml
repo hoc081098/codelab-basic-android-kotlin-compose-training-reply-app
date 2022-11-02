@@ -29,4 +29,9 @@
     <string name="continue_composing">Continue Composing</string>
     <string name="delete">Delete</string>
     <string name="move_to_inbox">Move to Inbox</string>
+
+    <string name="details_screen">Details screen</string>
+
+    <string name="navigation_bottom">Navigation Bottom</string>
+    <string name="navigation_rail">Navigation Rail</string>
 </resources>
